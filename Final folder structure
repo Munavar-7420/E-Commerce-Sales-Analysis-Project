@@ -1,0 +1,23 @@
+superstore-sales-analysis/
+│
+├── data/
+│   ├── Sample - Superstore.csv        ← original raw file
+│   └── superstore_cleaned.csv         ← your cleaned output from Phase 2
+│
+├── notebooks/
+│   └── superstore_analysis.ipynb      ← your full Jupyter notebook
+│
+├── charts/
+│   ├── dashboard.png                  ← hero image, goes in README
+│   ├── 01_category.png
+│   ├── 02_trend.png
+│   ├── 03_region.png
+│   ├── 04_subcategory.png
+│   ├── 05_discount.png
+│   └── 06_segment.png
+│
+├── reports/
+│   └── superstore_summary.xlsx        ← Excel export from Phase 4
+│
+├── .gitignore
+└── README.md
