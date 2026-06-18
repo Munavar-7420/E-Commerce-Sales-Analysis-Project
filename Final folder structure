@@ -1,23 +1,20 @@
-superstore-sales-analysis/
+E-Commerce-Sales-Analysis-Dashboard/
 │
-├── data/
-│   ├── Sample - Superstore.csv        ← original raw file
-│   └── superstore_cleaned.csv         ← your cleaned output from Phase 2
+├── Dashboard/
+│   └── E-Commerce Sales Analysis Dashboard.pbix
 │
-├── notebooks/
-│   └── superstore_analysis.ipynb      ← your full Jupyter notebook
+├── Data/
+│   ├── Superstore.csv
+│   └── cleaned_superstore.csv
 │
-├── charts/
-│   ├── dashboard.png                  ← hero image, goes in README
-│   ├── 01_category.png
-│   ├── 02_trend.png
-│   ├── 03_region.png
-│   ├── 04_subcategory.png
-│   ├── 05_discount.png
-│   └── 06_segment.png
+├── Notebook/
+│   └── Ecommerce_Sales_Data_Cleaning.ipynb
 │
-├── reports/
-│   └── superstore_summary.xlsx        ← Excel export from Phase 4
+├── Images/
+│   ├── dashboard-overview.png
+│   ├── sales-analysis.png
+│   └── profit-analysis.png
 │
-├── .gitignore
-└── README.md
+├── LICENSE
+├── README.md
+└── .gitignore
