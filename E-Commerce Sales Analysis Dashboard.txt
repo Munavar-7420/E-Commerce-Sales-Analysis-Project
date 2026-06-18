@@ -1,0 +1,24 @@
+🧠 1. Sales & Business Analytics Dashboard (Beginner → Must-have)
+8
+📌 Project: E-Commerce Sales Analysis Dashboard
+
+Dataset:
+
+https://www.kaggle.com/datasets/vivek468/superstore-dataset-final
+OR https://www.kaggle.com/datasets/carrie1/ecommerce-data
+🎯 What you will do:
+Analyze sales, profit, and customer segments
+Identify top-performing products
+Regional performance analysis
+🧰 Tools:
+
+Excel / Power BI / Python (Pandas, Matplotlib)
+
+📊 Output:
+Sales dashboard
+Profit trends
+Category-wise performance
+⭐ Why this is strong:
+Real business analytics
+Very understandable for visa officers
+Shows data interpretation skills
