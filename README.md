@@ -144,15 +144,15 @@ Business Insights
 
 ### Dashboard Overview
 
-![Dashboard Overview](Images/dashboard-overview.png)
+<img width="1536" height="1024" alt="E-commerce Sales Analysis Dashboard" src="https://github.com/user-attachments/assets/47dd9b78-2a3b-4f93-82be-c46c3ffbe61f" />
 
 ### Sales Analysis
 
-![Sales Analysis](Images/sales-analysis.png)
+<img width="1316" height="735" alt="Sales Overview Dashboard" src="https://github.com/user-attachments/assets/a6a5bff7-afe0-4ed9-ad9d-bbaa36129271" />
 
-### Profit Analysis
+### Product Analysis
 
-![Profit Analysis](Images/profit-analysis.png)
+<img width="1312" height="676" alt="Product Sales Dashboard" src="https://github.com/user-attachments/assets/14b2161a-97c9-4092-8f13-f3df29b97200" />
 
 ---
 
