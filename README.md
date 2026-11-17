@@ -88,22 +88,25 @@ This project analyzes an e-commerce retail dataset to uncover insights into sale
 ## 🔄 Project Workflow
 
 ```text
-Raw Dataset
-     │
-     ▼
-Data Cleaning (Python + Pandas)
-     │
-     ▼
-Exploratory Data Analysis (EDA)
-     │
-     ▼
-Data Visualization
-     │
-     ▼
-Power BI Dashboard Development
-     │
-     ▼
-Business Insights
+E-Commerce-Sales-Analysis-Project/
+│
+├── Dashboard/
+│   └── E-Commerce Sales Analysis Dashboard.pbix
+│
+├── Data/
+│   ├── Superstore.csv
+│   └── cleaned_superstore.csv
+│
+├── Notebook/
+│   └── Ecommerce_Sales_Data_Cleaning.ipynb
+│
+├── SQL/
+│   └── E-Commerce Sales Analysis.sql
+│
+├── Dashboard Pics/
+├── LICENSE
+├── README.md
+└── .gitignore
 ````
 
 ---
