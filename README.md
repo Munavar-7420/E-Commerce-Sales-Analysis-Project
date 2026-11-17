@@ -194,9 +194,7 @@ E-Commerce-Sales-Analysis-Dashboard/
 
 ## 👨‍💻 Author
 
-**Munavar Patter**
-
-Aspiring Data Analyst
-
-SQL • Excel • Power BI • Python • Pandas
+**Munavar Patter**  
+M.Sc. Student at SRH University | Former Data Analyst  
+SQL • Python • Power BI • Excel • Pandas
 
