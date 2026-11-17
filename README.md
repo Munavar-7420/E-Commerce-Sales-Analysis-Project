@@ -110,11 +110,9 @@ Business Insights
 
 ## 📈 Key Insights
 
-* Identified the most profitable product categories.
-* Compared sales performance across different regions.
-* Analyzed customer segment contribution to revenue.
-* Evaluated monthly sales and profit trends.
-* Highlighted high-performing products and loss-making segments.
+* Total Revenue & Profit: Generated $2.30M in total sales and $286.4K in profit across 9,994 orders (12.5% profit margin).
+* Top Category & Region: Technology led all categories in both revenue and profit, while the West region generated the highest regional sales.
+* Loss-Making Segment: Tables under the Furniture category operated at a net loss due to heavy discounting.
 
 ---
 
